@@ -6,3 +6,4 @@ passwordField.setValue("Ex@mplePassw0rd");
 account(user="admin", password="test123");
 account(user="admin", password="test123").connect_server();
 pwd = "erg!e13@ee.f";
+GMAIL_PASSWORD=_R[1997]M_
